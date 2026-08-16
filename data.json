@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Napoli Pizza House",
+    "location": "Zamalek, Cairo",
+    "cuisine": "italian",
+    "description": "Authentic wood-fired sourdough pizzas and homemade pastas.",
+    "averagePrice": 350,
+    "openingHours": "12:00 PM - 12:00 AM",
+    "priceLevel": "moderate",
+    "rating": 4.8,
+    "reviewsCount": 1200,
+    "imageUrl": "https://images.unsplash.com/photo-1555072956-7758afb20e8f?w=800"
+  },
+  {
+    "id": 2,
+    "name": "The Crepe Cart",
+    "location": "Maadi, Cairo",
+    "cuisine": "fast_food",
+    "description": "Delicious sweet and savory crepes, including dairy-free options made fresh daily.",
+    "averagePrice": 150,
+    "openingHours": "10:00 AM - 11:00 PM",
+    "priceLevel": "budget",
+    "rating": 4.6,
+    "reviewsCount": 850,
+    "imageUrl": "https://images.unsplash.com/photo-1519671282429-b44660ead0a7?w=800"
+  },
+  {
+    "id": 3,
+    "name": "El Koshary El Asly",
+    "location": "Downtown, Cairo",
+    "cuisine": "egyptian",
+    "description": "Traditional Egyptian Koshary made with the freshest ingredients.",
+    "averagePrice": 80,
+    "openingHours": "24 Hours",
+    "priceLevel": "budget",
+    "rating": 4.9,
+    "reviewsCount": 3200,
+    "imageUrl": "https://images.unsplash.com/photo-1627308595229-7830f5c9593e?w=800"
+  }
+]
